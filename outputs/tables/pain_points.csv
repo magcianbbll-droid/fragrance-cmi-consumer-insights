@@ -1,0 +1,9 @@
+﻿category,mentions,denominator,mention_rate,denominator_definition,share_of_tag_mentions,cumulative_tag_share
+value,192,2507,0.07658556043079377,"negative (1–2 star), text-eligible, non-promotional reviews",0.26928471248246844,0.26928471248246844
+scent_mismatch,176,2507,0.0702034303948943,"negative (1–2 star), text-eligible, non-promotional reviews",0.24684431977559607,0.5161290322580645
+authenticity,132,2507,0.05265257279617072,"negative (1–2 star), text-eligible, non-promotional reviews",0.18513323983169705,0.7012622720897616
+longevity,101,2507,0.04028719585161548,"negative (1–2 star), text-eligible, non-promotional reviews",0.14165497896213183,0.8429172510518934
+packaging,84,2507,0.033506182688472275,"negative (1–2 star), text-eligible, non-promotional reviews",0.11781206171107994,0.9607293127629734
+irritation,17,2507,0.006781013163143199,"negative (1–2 star), text-eligible, non-promotional reviews",0.023842917251051893,0.9845722300140253
+projection,11,2507,0.0043877143996808934,"negative (1–2 star), text-eligible, non-promotional reviews",0.015427769985974754,1.0
+delivery,0,2507,0.0,"negative (1–2 star), text-eligible, non-promotional reviews",0.0,1.0

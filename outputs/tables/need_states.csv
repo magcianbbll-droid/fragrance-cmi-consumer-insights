@@ -1,0 +1,8 @@
+﻿category,mentions,denominator,mention_rate,denominator_definition,share_of_tag_mentions,cumulative_tag_share
+gifting,616,13859,0.044447651345695935,"text-eligible, non-promotional fragrance reviews",0.25061025223759154,0.25061025223759154
+compliment_or_identity,587,13859,0.042355148279096616,"text-eligible, non-promotional fragrance reviews",0.23881204231082181,0.48942229454841335
+daily_or_work,369,13859,0.026625297640522405,"text-eligible, non-promotional fragrance reviews",0.1501220504475183,0.6395443449959317
+travel,366,13859,0.026408831806046612,"text-eligible, non-promotional fragrance reviews",0.14890154597233524,0.788445890968267
+date_or_evening,244,13859,0.01760588787069774,"text-eligible, non-promotional fragrance reviews",0.09926769731489016,0.8877135882831572
+warm_weather,158,13859,0.011400533949058374,"text-eligible, non-promotional fragrance reviews",0.06427990235964198,0.9519934906427991
+cold_weather,118,13859,0.008514322822714481,"text-eligible, non-promotional fragrance reviews",0.04800650935720097,1.0000000000000002

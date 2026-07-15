@@ -1,0 +1,65 @@
+{
+  "product_include": [
+    "perfume", "parfum", "fragrance", "cologne", "eau de parfum",
+    "eau de toilette", "eau de cologne", "body mist", "body spray",
+    "perfume oil", "fragrance oil", "attar", "after shave"
+  ],
+  "product_exclude": [
+    "air freshener", "car freshener", "reed diffuser", "oil diffuser",
+    "essential oil diffuser", "scented candle", "wax melt", "incense",
+    "laundry", "dryer sheet", "dish soap", "shampoo", "conditioner",
+    "hand soap", "body wash", "deodorant", "antiperspirant", "cat litter",
+    "dog spray", "room spray", "toilet spray", "cleaner", "fragrance free",
+    "fragrance-free", "unscented", "empty bottle", "empty glass bottle",
+    "refillable bottle", "atomizer bottle", "storage organizer"
+  ],
+  "formats": {
+    "sample_or_travel": ["sample", "tester", "discovery set", "travel size", "miniature", "mini size", "decant"],
+    "gift_set": ["gift set", "fragrance set", "perfume set", "cologne set"],
+    "body_mist": ["body mist", "body spray", "fragrance mist"],
+    "fragrance_oil": ["perfume oil", "fragrance oil", "attar", "roll on", "roll-on"],
+    "cologne": ["cologne", "eau de cologne", "after shave", "aftershave"],
+    "eau_de_toilette": ["eau de toilette", "edt"],
+    "eau_de_parfum": ["eau de parfum", "edp", "parfum", "perfume"]
+  },
+  "pain_points": {
+    "longevity": ["doesn't last", "does not last", "didn't last", "lasts only", "fades fast", "fades quickly", "wears off", "short lived", "short-lived", "weak longevity", "no longevity", "not long lasting", "not long-lasting"],
+    "projection": ["no projection", "weak projection", "doesn't project", "does not project", "too weak", "barely smell", "skin scent"],
+    "scent_mismatch": ["smells different", "not as described", "nothing like", "not what i expected", "too sweet", "too strong", "too floral", "too powdery", "too musky", "too masculine", "too feminine", "headache", "nausea"],
+    "authenticity": ["fake", "counterfeit", "not authentic", "inauthentic", "knockoff", "knock-off", "watered down", "diluted", "reformulated"],
+    "value": ["overpriced", "too expensive", "not worth", "waste of money", "poor value", "pricey", "cost too much"],
+    "packaging": ["leak", "leaked", "broken bottle", "broken cap", "sprayer", "atomizer", "damaged box", "poor packaging", "empty bottle"],
+    "delivery": ["arrived late", "late delivery", "never arrived", "shipping damage", "damaged in transit", "missing package"],
+    "irritation": ["rash", "irritation", "irritated", "allergic", "burning skin", "itchy"]
+  },
+  "need_states": {
+    "daily_or_work": ["everyday", "every day", "daily", "office", "at work", "for work", "wear to work", "work scent", "workplace", "school", "class", "casual"],
+    "date_or_evening": ["date night", "date", "evening", "night out", "dinner", "romantic", "sexy"],
+    "gifting": ["gift", "birthday", "anniversary", "christmas", "mother's day", "father's day", "valentine"],
+    "travel": ["travel", "vacation", "trip", "carry on", "carry-on", "purse", "on the go"],
+    "warm_weather": ["summer", "spring", "hot weather", "warm weather", "beach"],
+    "cold_weather": ["winter", "fall", "autumn", "cold weather", "cool weather"],
+    "compliment_or_identity": ["compliment", "signature scent", "signature fragrance", "makes me feel", "confidence", "confident", "my favorite", "favourite"]
+  },
+  "scent_families": {
+    "floral": ["floral", "rose", "jasmine", "tuberose", "lily", "violet", "lavender", "gardenia", "peony"],
+    "fruity": ["fruity", "berry", "apple", "pear", "peach", "cherry", "plum", "mango", "coconut"],
+    "citrus_fresh": ["citrus", "fresh", "lemon", "lime", "bergamot", "orange", "grapefruit", "clean scent"],
+    "gourmand_sweet": ["gourmand", "sweet", "vanilla", "caramel", "chocolate", "coffee", "honey", "sugar", "candy"],
+    "woody": ["woody", "wood", "cedar", "sandalwood", "oud", "vetiver", "patchouli"],
+    "amber_oriental": ["amber", "oriental", "resin", "incense", "balsamic"],
+    "musk_powdery": ["musk", "musky", "powdery", "powder", "soapy"],
+    "aquatic": ["aquatic", "marine", "ocean", "sea salt", "watery"],
+    "green_herbal": ["green", "herbal", "mint", "tea", "grass", "sage", "rosemary"],
+    "spicy": ["spicy", "spice", "cinnamon", "pepper", "cardamom", "clove", "ginger"],
+    "leather_tobacco": ["leather", "tobacco", "smoky", "smoke"]
+  },
+  "repurchase_positive": [
+    "buy again", "purchase again", "repurchase", "re-purchase", "another bottle",
+    "second bottle", "third bottle", "keep buying", "will reorder", "would reorder"
+  ],
+  "repurchase_negative": [
+    "not buy again", "won't buy again", "will not buy again", "wouldn't buy again",
+    "would not buy again", "not repurchase", "never again", "not reorder"
+  ]
+}

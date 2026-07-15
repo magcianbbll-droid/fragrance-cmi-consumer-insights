@@ -1,0 +1,83 @@
+{
+  "status": "passed",
+  "checks_passed": 15,
+  "analysis_rows": 14647,
+  "top_three_pain_tag_share": 0.7012622720897614,
+  "checks": {
+    "analysis_row_count": {
+      "passed": true,
+      "actual": 14647,
+      "expected": 14647
+    },
+    "review_key_unique": {
+      "passed": true,
+      "actual": 14647,
+      "expected": 14647
+    },
+    "matched_minus_duplicates": {
+      "passed": true,
+      "actual": 14647,
+      "expected": 14647
+    },
+    "text_eligible_rows": {
+      "passed": true,
+      "actual": 13859,
+      "expected": 13859
+    },
+    "negative_rows": {
+      "passed": true,
+      "actual": 2561,
+      "expected": 2561
+    },
+    "negative_text_denominator": {
+      "passed": true,
+      "actual": 2507,
+      "expected": 2507
+    },
+    "priced_rows": {
+      "passed": true,
+      "actual": 8054,
+      "expected": 8054
+    },
+    "explicit_repurchase_rows": {
+      "passed": true,
+      "actual": 354,
+      "expected": 354
+    },
+    "top_pain_label": {
+      "passed": true,
+      "actual": "value",
+      "expected": "value"
+    },
+    "top_three_pain_share_round_4": {
+      "passed": true,
+      "actual": 0.7013,
+      "expected": 0.7013
+    },
+    "forbidden_raw_columns": {
+      "passed": true,
+      "actual": [],
+      "expected": []
+    },
+    "xlsx_zip_integrity": {
+      "passed": true,
+      "actual": null,
+      "expected": null
+    },
+    "xlsx_sheet_count": {
+      "passed": true,
+      "actual": 13,
+      "expected": 13
+    },
+    "figure_count": {
+      "passed": true,
+      "actual": 9,
+      "expected": 9
+    },
+    "nonempty_figures": {
+      "passed": true,
+      "actual": true,
+      "expected": true
+    }
+  }
+}

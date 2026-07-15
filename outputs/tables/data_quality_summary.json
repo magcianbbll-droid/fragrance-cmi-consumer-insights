@@ -1,0 +1,23 @@
+{
+  "source": "McAuley Lab Amazon Reviews 2023 / All_Beauty",
+  "grain": "one deduplicated review per review_key",
+  "source_metadata_rows": 112590,
+  "fragrance_product_rows": 3022,
+  "duplicate_parent_metadata_rows": 0,
+  "source_review_rows": 701528,
+  "matched_review_rows": 14813,
+  "text_eligible_rows": 13859,
+  "duplicate_review_rows": 166,
+  "deduplicated_review_rows": 14647,
+  "distinct_review_products": 3022,
+  "distinct_brands": 1128,
+  "review_date_min": "2004-09-12",
+  "review_date_max": "2023-08-30",
+  "text_eligible_rate": 0.946201,
+  "verified_purchase_rate": 0.930771,
+  "review_price_coverage_rate": 0.549874,
+  "pure_promo_noise_rate": 0.0,
+  "product_price_coverage_rate": 0.387161,
+  "taxonomy_sha256": "6e6c85109b71244ca242c53ab7fd051d533f741d80fa303356197819c3dbbf28",
+  "privacy": "Review text and raw user identifiers are not persisted in processed outputs."
+}
