@@ -1,0 +1,31 @@
+.venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.DS_Store
+.idea/
+.vscode/
+
+# Raw third-party data is downloaded locally and is never committed.
+data/raw/*
+!data/raw/.gitkeep
+
+# Temporary/intermediate data can be rebuilt.
+data/interim/*
+!data/interim/.gitkeep
+
+# Row-level derived files are reproducible but remain local because they carry
+# third-party product metadata. Only aggregate output tables are committed.
+data/processed/*
+!data/processed/.gitkeep
+
+# Local logs and temporary renders.
+logs/
+tmp/
+*.log
+*.inspect.ndjson
+/pytest-cache-files-*/
+tests/fixtures/runtime/*
+!tests/fixtures/runtime/.gitkeep
